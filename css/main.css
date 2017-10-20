@@ -1,0 +1,40 @@
+.red {
+  position: absolute;
+  display:inline-block;
+  border: 70px red solid;
+  background: #3d0657;
+  width: 300px;
+  height: 300px;
+  box-sizing: border-box;
+}
+
+.box1 {
+  position: relative;
+  bottom: 16px;
+  background: yellow;
+  width: 82px;
+  height: 82px;
+  box-sizing: border-box;
+}
+
+.blue {
+  position: relative;
+  border: 70px blue solid;
+  display:inline-block;
+  top: 310px;
+  background: green;
+  width: 300px;
+  height: 300px;
+  box-sizing: border-box;
+  
+}
+
+.box2 {
+  position: relative;
+  bottom: 86px;
+  left: -70px;
+  background: black;
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+}
